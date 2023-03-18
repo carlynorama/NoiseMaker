@@ -33,7 +33,7 @@ public extension NoiseMaker {
 
             for octave in 0..<octaves {
                 
-                //each octive point is half of the previous octive, starting with the width, i.e. the count
+                //each octave point is half of the previous octave, starting with the width, i.e. the count
                 //this function requires that the loop always be a power of two.
                 let pitch = count >> octave
                 //print("index: \(currentIndex), octave:\(octave), pitch:\(pitch)")
@@ -77,7 +77,7 @@ public extension NoiseMaker {
                 
                 for octave in 0..<octaves {
                     
-                    //each octive point is half of the previous octive, starting with the width, i.e. the count
+                    //each octave point is half of the previous octave, starting with the width, i.e. the count
                     //this function requires that the loop always be a power of two.
                     let pitch = width >> octave
                     if pitch == 0 { break } // TODO: see above catch is octave resolution is fine for count?

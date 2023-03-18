@@ -1,6 +1,6 @@
 # NoiseMaker
 
-This package provides Swift accesible noise funtions. Largely wrappers around proven existing code. 
+This package provides Swift accessible noise functions. Largely wrappers around proven existing code. 
 
 
 ## Code Sources

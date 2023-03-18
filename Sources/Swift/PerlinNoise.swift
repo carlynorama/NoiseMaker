@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  PerlinNoise.swift
 //  
 //
 //  Created by Carlyn Maw on 3/12/23.
