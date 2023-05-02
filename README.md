@@ -26,3 +26,5 @@ This package provides Swift accessible noise functions. Largely wrappers around 
 - https://developer.apple.com/documentation/swift/using-imported-c-functions-in-swift
 - https://developer.apple.com/documentation/swift/using-imported-c-structs-and-unions-in-swift
 - https://developer.apple.com/documentation/swift/using-imported-c-macros-in-swift
+- https://theswiftdev.com/the-swift-package-manifest-file/
+- https://littlegreenviper.com/miscellany/spm/implementing-swift-package-manager-03/
